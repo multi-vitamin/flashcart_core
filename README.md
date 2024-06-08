@@ -1,5 +1,5 @@
 # support
-added DSONE SDHC(SST39VF040) support
+__Added DSONE SDHC(SST39VF040) support__
 
 # flashcart_core
 __A *hopefully* reusable component for dealing with flashcart specific behavior.__
