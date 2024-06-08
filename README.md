@@ -1,5 +1,6 @@
 # support
 __Added DSONE SDHC(SST39VF040) support__
+ntrboot injection is not tested.
 
 # flashcart_core
 __A *hopefully* reusable component for dealing with flashcart specific behavior.__
