@@ -15,7 +15,7 @@ Flash chips are all identified by the following command sequence:
 Supported Chips using the same standard of command definitons (type A):
     Sector Block Addressing = 16KB,8KB,8KB,32KB,64KB,64KB,64KB... (unless otherwise specified)
 
-    0x7DBF: https://ww1.microchip.com/downloads/aemDocuments/documents/MPD/ProductDocuments/DataSheets/SST39LFX00A-SST39VFX00A-2-Mbit-4-Mbit-8-Mbit-x16-Multi-Purpose-Flash-DS20005001.pdf (4K sector-erase)
+    0xD7BF: https://ww1.microchip.com/downloads/aemDocuments/documents/MPD/ProductDocuments/DataSheets/SST39LFX00A-SST39VFX00A-2-Mbit-4-Mbit-8-Mbit-x16-Multi-Purpose-Flash-DS20005001.pdf (4K sector-erase)
 
 
 Supported but untested, non standard flash commands:
