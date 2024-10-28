@@ -1,7 +1,8 @@
 # support
-__Added DSONE SDHC(SST39VF040) support__
+- __Added DSONE SDHC(SST39VF040) support__
 - ntrboot injection is not tested.
-__Added Experimental DSONEi support__
+- 
+- __Added Experimental DSONEi support__
 - not tested
 
 # flashcart_core
